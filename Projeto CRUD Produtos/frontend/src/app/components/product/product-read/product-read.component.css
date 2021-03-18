@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+}
+.edit{
+    margin-right: 10px;
+}
+.edit > i{
+    color: rgb(233, 233, 52);
+}
+.delete > i{
+    color: rgb(241, 125, 125);
+}
+.pesquisa {
+    align-items: center;
+}
+h2{
+    float: left;
+    margin-right: 10px;
+
+}
+.inputPesquisa{
+    width: 600px;
+    height: 20px;
+    border-radius: 5px;
+}
